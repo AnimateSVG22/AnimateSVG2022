@@ -26,7 +26,7 @@ To use this code you have to follow these steps:
 
 .. code-block::
 
-    $  git clone
+    $  git clone git@github.com:AnimateSVG22/AnimateSVG2022.git 
     $  cd animate_logos
 
 2. Continue by creating a new conda environment (Python 3.7):
