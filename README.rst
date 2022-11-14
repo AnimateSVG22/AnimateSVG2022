@@ -5,6 +5,10 @@ This project allows to automatically animate logos in SVG format using machine l
 
 Its functionality include extracting SVG information (e.g., size, position, color), get SVG embeddings of logos by using  `DeepSVG <https://github.com/alexandre01/deepsvg/>`__'s hierarchical generative network, and an entire pipeline that takes an unprocessed logo as input and outputs an animated logo created with two different machine learning models.
 
+Contributors to this project: Rebecca Armbruster, Jonathan Baumert, Tim Bleil, Jakob Langenbahn, Sarah Sester, Jan Christian Schwedhelm and Deborah Mateja
+
+Paper: Forthcoming in Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI-23)
+
 
 Table of Contents
 #################
